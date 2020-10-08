@@ -1,3 +1,5 @@
+#!/usr/bin/env
+
 if __name__ == '__main__':
 	x = "ECE 180DA/DB"
 	if x == "ECE 180DA/DB":
